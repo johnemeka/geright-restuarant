@@ -7,7 +7,7 @@ import { images, data } from '../../constants';
 
 const SpecialMenu = () => {
   return (
-    <div className='app__specialMenu flex__center section__padding'>
+    <div className='app__specialMenu flex__center  section__padding'>
      <div className="app___specialMenu-title">
         <SubHeading title="Menu that you palatte" />
         <h1 className="headtext__cormorant">Todays Special</h1>

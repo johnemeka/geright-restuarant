@@ -4,7 +4,7 @@
 
 .app__header-h1{
     font-family: var(--font-base);
-    color: var(--color-golden);
+    color: var(--color-white);
     letter-spacing: 0.04em;
     text-transform: uppercase;
     line-height: 100px;
@@ -12,7 +12,4 @@
 }
 .app__header-img img{
     width: 80px;
-}
-.subheading{
-    color: white;
 }
